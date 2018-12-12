@@ -1,0 +1,13 @@
+git init : git-hub에 프로젝트를 등록하기 위한 초기화작업 
+
+2. 정보 설정
+git config --local user.name Mini01
+git config --local user.email skekdwoals@naver.com
+
+
+3.파일 등록
+git add .
+git commit -m first
+
+https://github.com/Mini01/ClassAndMethod
+git push -u origin master
